@@ -8,7 +8,7 @@ Merhaba Hocam,
 
 * **Web Görünümü:** [django_cevırı_osman_ceran.docx](./django_cev%C4%B1r%C4%B1_osman_ceran.docx)
 * **PDF Görünümü:** [osman_ceran_web_ceviri.docx](./osman_ceran_web_ceviri.docx)
-* **Soru-Cevap:** [soru_cevap_osman_ceran.docx](./soru_cevap_osman_ceran.docx)
+* **Soru-Cevap:** [Soru-cevap.docx](./soru_cevap_osman_ceran.docx)
 
 
 **Osman Ceran**
