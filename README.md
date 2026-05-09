@@ -2,11 +2,13 @@
 
 Merhaba Hocam,
 
-Çeviri ödevimin tamamlanmış web ve PDF görünümleri ektedir.
+Çeviri ödevimin tamamlanmış web, PDF ve Soru-Cevap dökümanları aşağıdadır.
+
+### Dosyalar
+
+* **Web Görünümü:** [django_cevırı_osman_ceran.docx](./django_cev%C4%B1r%C4%B1_osman_ceran.docx)
+* **PDF Görünümü:** [osman_ceran_web_ceviri.docx](./osman_ceran_web_ceviri.docx)
+* **Soru-Cevap:** [soru_cevap_osman_ceran.docx](./soru_cevap_osman_ceran.docx)
 
 
-- [django_cevırı_osman_ceran.docx](./django_cev%C4%B1r%C4%B1_osman_ceran.docx) (Web görünümü)
-- [osman_ceran_web_ceviri.docx](./osman_ceran_web_ceviri.docx) (PDF görünümü)
-
-
-Osman Ceran
+**Osman Ceran**
